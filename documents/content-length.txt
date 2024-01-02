@@ -1,0 +1,12 @@
+name|url|size
+dp_B0851B8QJ7|https://www.amazon.com.au/dp/B0851B8QJ7/|54724
+review1.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=1|12117
+review2.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2|11851
+review3.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=3|15088
+review4.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=4|18294
+review5.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=5|21207
+review6.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=6|13992
+review7.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=7|11977
+review8.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=8|13455
+review9.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=9|16989
+review10.txt|https://www.amazon.com.au/FLEXISPOT-Electric-Standing-Adjustable-Workstation/product-reviews/B0851B8QJ7/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=10|14251
